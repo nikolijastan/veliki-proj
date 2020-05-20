@@ -1,0 +1,76 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 May 2020 22:55:47 at https://androidvsios532379373.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://androidvsios532379373.wordpress.com/ -O1 "C:\Users\nikol\OneDrive\Desktop\Projekat veliki" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:57:52	Warning: 	Found for https://androidvsios532379373.wordpress.com/ios/?share=twitter
+22:57:52	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/ios/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=iOS&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2Fios%2F
+22:57:52	Warning: 	Found for https://androidvsios532379373.wordpress.com/ios/?share=facebook
+22:57:52	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/ios/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2Fios%2F&t=iOS
+22:58:00	Warning: 	Found for https://androidvsios532379373.wordpress.com/slicnosti-i-razlike/?share=twitter
+22:58:00	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/slicnosti-i-razlike/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Sli%C4%8Dnosti%20i%20razlike&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2Fslicnosti-i-razlike%2F
+22:58:00	Warning: 	Found for https://androidvsios532379373.wordpress.com/slicnosti-i-razlike/?share=facebook
+22:58:00	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/slicnosti-i-razlike/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2Fslicnosti-i-razlike%2F&t=Sli%C4%8Dnosti%20i%20razlike
+22:58:00	Warning: 	Found for https://androidvsios532379373.wordpress.com/sve-objave/?share=twitter
+22:58:00	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/sve-objave/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Sve%20objave&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2Fsve-objave%2F
+22:58:00	Warning: 	Found for https://androidvsios532379373.wordpress.com/sve-objave/?share=facebook
+22:58:00	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/sve-objave/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2Fsve-objave%2F&t=Sve%20objave
+22:58:02	Error: 	"Method Not Allowed" (405) at link https://androidvsios532379373.wordpress.com/xmlrpc.php (from https://androidvsios532379373.wordpress.com/2020/05/20/uporedivanje-androida-i-ios-a/)
+22:58:06	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/uporedivanje-androida-i-ios-a/?share=twitter
+22:58:06	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/uporedivanje-androida-i-ios-a/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Upore%C4%91ivanje%20Androida%20i%20iOS&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fuporedivanje-androida-i-ios-a%2F
+22:58:06	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/uporedivanje-androida-i-ios-a/?share=facebook
+22:58:06	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/uporedivanje-androida-i-ios-a/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fuporedivanje-androida-i-ios-a%2F&t=Upore%C4%91ivanje%20Androida%20i%20iOS
+22:58:15	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/69/?share=twitter
+22:58:15	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/69/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=O%20Androidu&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2F69%2F
+22:58:15	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/69/?share=facebook
+22:58:15	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/69/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2F69%2F&t=O%20Androidu
+22:58:17	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/android-ili-ios/?share=twitter
+22:58:17	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/android-ili-ios/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Android%20ili%20iOS%3F&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fandroid-ili-ios%2F
+22:58:17	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/android-ili-ios/?share=facebook
+22:58:17	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/android-ili-ios/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fandroid-ili-ios%2F&t=Android%20ili%20iOS%3F
+22:58:19	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/korisnicki-interfejs/?share=twitter
+22:58:19	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/korisnicki-interfejs/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Korisni%C4%8Dki%20interfejs&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fkorisnicki-interfejs%2F
+22:58:19	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/korisnicki-interfejs/?share=facebook
+22:58:19	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/korisnicki-interfejs/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fkorisnicki-interfejs%2F&t=Korisni%C4%8Dki%20interfejs
+22:58:20	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije/?share=twitter
+22:58:20	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Aplikacije&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Faplikacije%2F
+22:58:20	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije/?share=facebook
+22:58:20	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Faplikacije%2F&t=Aplikacije
+22:58:22	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/upravljanje-memorijom/?share=twitter
+22:58:22	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/upravljanje-memorijom/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Upravljanje%20memorijom&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fupravljanje-memorijom%2F
+22:58:22	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/upravljanje-memorijom/?share=facebook
+22:58:22	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/upravljanje-memorijom/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fupravljanje-memorijom%2F&t=Upravljanje%20memorijom
+22:58:23	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/pocetni-ekran/?share=twitter
+22:58:23	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/pocetni-ekran/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Po%C4%8Detni%20ekran&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fpocetni-ekran%2F
+22:58:23	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/pocetni-ekran/?share=facebook
+22:58:23	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/pocetni-ekran/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fpocetni-ekran%2F&t=Po%C4%8Detni%20ekran
+22:58:24	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/pristupacnost-ios-a/?share=twitter
+22:58:24	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/pristupacnost-ios-a/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Pristupa%C4%8Dnost%20iOS-a&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fpristupacnost-ios-a%2F
+22:58:24	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/pristupacnost-ios-a/?share=facebook
+22:58:24	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/pristupacnost-ios-a/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fpristupacnost-ios-a%2F&t=Pristupa%C4%8Dnost%20iOS-a
+22:58:26	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/multitasking/?share=twitter
+22:58:26	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/multitasking/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Multitasking&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fmultitasking%2F
+22:58:26	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/multitasking/?share=facebook
+22:58:26	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/multitasking/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fmultitasking%2F&t=Multitasking
+22:58:27	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/interfejs/?share=twitter
+22:58:27	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/interfejs/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Interfejs&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Finterfejs%2F
+22:58:27	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/interfejs/?share=facebook
+22:58:27	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/interfejs/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Finterfejs%2F&t=Interfejs
+22:58:29	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije-dostupne-na-ios-u-i-androidu/?share=twitter
+22:58:29	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije-dostupne-na-ios-u-i-androidu/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Aplikacije%20dostupne%20na%20iOS-u%20i%20Androidu&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Faplikacije-dostupne-na-ios-u-i-androidu%2F
+22:58:29	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije-dostupne-na-ios-u-i-androidu/?share=facebook
+22:58:29	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/aplikacije-dostupne-na-ios-u-i-androidu/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Faplikacije-dostupne-na-ios-u-i-androidu%2F&t=Aplikacije%20dostupne%20na%20iOS-u%20i%20Androidu
+22:58:30	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/brzina/?share=twitter
+22:58:30	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/brzina/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Brzina&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fbrzina%2F
+22:58:30	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/brzina/?share=facebook
+22:58:30	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/brzina/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fbrzina%2F&t=Brzina
+22:58:31	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/nadogradnja-softvera/?share=twitter
+22:58:31	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/nadogradnja-softvera/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Nadogradnja%20softvera&url=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fnadogradnja-softvera%2F
+22:58:31	Warning: 	Found for https://androidvsios532379373.wordpress.com/2020/05/20/nadogradnja-softvera/?share=facebook
+22:58:31	Warning: 	File has moved from https://androidvsios532379373.wordpress.com/2020/05/20/nadogradnja-softvera/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandroidvsios532379373.wordpress.com%2F2020%2F05%2F20%2Fnadogradnja-softvera%2F&t=Nadogradnja%20softvera
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 46 seconds : 230 links scanned, 195 files written (23342112 bytes overall) [21538045 bytes received at 129747 bytes/sec], 2541138 bytes transferred using HTTP compression in 88 files, ratio 25%, 2.9 requests per connection
+(1 errors, 64 warnings, 0 messages)
